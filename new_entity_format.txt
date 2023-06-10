@@ -1,0 +1,786 @@
+
+I'd like a small coffee and a medium latte, please.
+[(a small coffee), (a medium latte)]
+
+Can I get a large smoothie and two small coffees to go?
+[(a large smoothie), (two small coffees)]
+
+I'll have a medium latte and a small smoothie.
+[(a medium latte), (a small smoothie)]
+
+Could I get two large coffees and a small latte, please?
+[(two large coffees), (a small latte)]
+
+May I have a small coffee, a medium smoothie, and a large latte to stay?
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+I'd like a large smoothie, two small lattes, and a medium coffee to go.
+[(a large smoothie), (two small lattes), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+Can I get a small latte and a large smoothie to go?
+[(a small latte), (a large smoothie)]
+
+I'd like a medium coffee and two small lattes, please.
+[(a medium coffee), (two small lattes)]
+
+May I have a large latte and a small smoothie to stay?
+[(a large latte), (a small smoothie)]
+
+Could I get a small smoothie, three medium coffees, and a large latte to go?
+[(a small smoothie), (three medium coffees), (a large latte)]
+
+I'll have a small coffee and a medium smoothie to stay.
+[(a small coffee), (a medium smoothie)]
+
+Can I get a large latte and two small coffees to go?
+[(a large latte), (two small coffees)]
+
+I'd like a medium smoothie and a small latte, please.
+[(a medium smoothie), (a small latte)]
+
+May I have a small coffee, a large latte, and a medium smoothie to go?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+Could I get a small latte and three small coffees, please?
+[(a small latte), (three small coffees)]
+
+I'll have a large smoothie and a small coffee to stay.
+[(a large smoothie), (a small coffee)]
+
+Can I get a small coffee and a medium latte, please?
+[(a small coffee), (a medium latte)]
+
+I'll have a large smoothie and two small coffees to go.
+[(a large smoothie), (two small coffees)]
+
+Could I get a medium latte and a small smoothie?
+[(a medium latte), (a small smoothie)]
+
+May I have two large coffees and a small latte, please?
+[(two large coffees), (a small latte)]
+
+I'd like a small coffee, a medium smoothie, and a large latte to stay.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie, two small lattes, and a medium coffee to go?
+[(a large smoothie), (two small lattes), (a medium coffee)]
+
+I'll have a small latte and a medium coffee, please.
+[(a small latte), (a medium coffee)]
+
+Could I get a large coffee and a small smoothie to stay?
+[(a large coffee), (a small smoothie)]
+
+May I have a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+I'd like a medium latte and three small coffees, please.
+[(a medium latte), (three small coffees)]
+
+Can I get a small coffee and a medium latte, please?
+[(a small coffee), (a medium latte)]
+
+I'll have a large smoothie and two small coffees to go.
+[(a large smoothie), (two small coffees)]
+
+Could I get a medium latte and a small smoothie?
+[(a medium latte), (a small smoothie)]
+
+May I have two large coffees and a small latte, please?
+[(two large coffees), (a small latte)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee and a medium latte, please.
+[(a small coffee), (a medium latte)]
+
+Can I get a large smoothie and two small coffees to go?
+[(a large smoothie), (two small coffees)]
+
+I'll have a medium latte and a small smoothie.
+[(a medium latte), (a small smoothie)]
+
+Could I get two large coffees and a small latte, please?
+[(two large coffees), (a small latte)]
+
+May I have a small coffee, a medium smoothie, and a large latte to stay?
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+I'd like a large smoothie, two small lattes, and a medium coffee to go.
+[(a large smoothie), (two small lattes), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee and a medium latte, please.
+[(a small coffee), (a medium latte)]
+
+Can I get a large smoothie and two small coffees to go?
+[(a large smoothie), (two small coffees)]
+
+I'll have a medium latte and a small smoothie.
+[(a medium latte), (a small smoothie)]
+
+Could I get two large coffees and a small latte, please?
+[(two large coffees), (a small latte)]
+
+May I have a small coffee, a medium smoothie, and a large latte to stay?
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+I'd like a large smoothie, two small lattes, and a medium coffee to go.
+[(a large smoothie), (two small lattes), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, a small latte, and a medium coffee.
+[(a large smoothie), (a small latte), (a medium coffee)]
+
+Can I get a small latte and a medium coffee, please?
+[(a small latte), (a medium coffee)]
+
+I'll have a large coffee and a small smoothie to stay.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small smoothie, two medium coffees, and a large latte to go?
+[(a small smoothie), (two medium coffees), (a large latte)]
+
+May I have a medium latte and three small coffees, please?
+[(a medium latte), (three small coffees)]
+
+I'd like a small coffee, a medium smoothie, and a large latte.
+[(a small coffee), (a medium smoothie), (a large latte)]
+
+Can I get a large smoothie and a small latte to go?
+[(a large smoothie), (a small latte)]
+
+I'll have a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Could I get two large coffees and a small smoothie, please?
+[(two large coffees), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a large smoothie, two small lattes, and a medium coffee to go.
+[(a large smoothie), (two small lattes), (a medium coffee)]
+
+Can I get a small coffee to go?
+[(a small coffee)]
+
+I'll have a medium coffee, please.
+[(a medium coffee)]
+
+Could I get a large coffee to stay?
+[(a large coffee)]
+
+May I have two small coffees, please?
+[(two small coffees)]
+
+I'd like a medium coffee and a small smoothie to go.
+[(a medium coffee), (a small smoothie)]
+
+Can I get a large coffee and a small latte to stay?
+[(a large coffee), (a small latte)]
+
+I'll have a small coffee and a medium smoothie, please.
+[(a small coffee), (a medium smoothie)]
+
+Could I get two large coffees and a small latte to go?
+[(two large coffees), (a small latte)]
+
+May I have a small coffee and a medium latte to stay?
+[(a small coffee), (a medium latte)]
+
+I'd like a large coffee, a small latte, and a medium smoothie.
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+Can I get a small coffee and two medium lattes, please?
+[(a small coffee), (two medium lattes)]
+
+I'll have a large coffee and a small smoothie to go.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small coffee, a medium latte, and a large smoothie to stay?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+May I have a small coffee and a medium smoothie to go?
+[(a small coffee), (a medium smoothie)]
+
+I'd like a large coffee and two small lattes to stay.
+[(a large coffee), (two small lattes)]
+
+Can I get a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'll have a small coffee and a medium smoothie to stay.
+[(a small coffee), (a medium smoothie)]
+
+Could I get a large coffee and a small latte to go?
+[(a large coffee), (a small latte)]
+
+May I have a small coffee, a medium latte, and two small smoothies to stay?
+[(a small coffee), (a medium latte), (two small smoothies)]
+
+I'd like a large coffee and a small latte to go.
+[(a large coffee), (a small latte)]
+
+Can I get a small coffee and a medium smoothie to stay?
+[(a small coffee), (a medium smoothie)]
+
+I'll have a large coffee, a small latte, and a medium smoothie to go.
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+Could I get two small coffees and a medium latte, please?
+[(two small coffees), (a medium latte)]
+
+May I have a small coffee and a large smoothie to stay?
+[(a small coffee), (a large smoothie)]
+
+I'd like a medium coffee and two small lattes to go.
+[(a medium coffee), (two small lattes)]
+
+Can I get a small coffee, a large latte, and a medium smoothie to go?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+I'll have a small coffee and a medium latte to stay.
+[(a small coffee), (a medium latte)]
+
+Could I get a large coffee and a small smoothie to go?
+[(a large coffee), (a small smoothie)]
+
+May I have a small coffee, a medium latte, and a large smoothie to stay?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+I'd like a small coffee and a medium smoothie to go.
+[(a small coffee), (a medium smoothie)]
+
+Can I get a large coffee and two small lattes to stay?
+[(a large coffee), (two small lattes)]
+
+I'll have a small coffee, a medium latte, and a small smoothie to go.
+[(a small coffee), (a medium latte), (a small smoothie)]
+
+Could I get a small coffee and a large latte to stay?
+[(a small coffee), (a large latte)]
+
+May I have a medium coffee and a small smoothie to go?
+[(a medium coffee), (a small smoothie)]
+
+I'd like a small coffee, a large latte, and a medium smoothie.
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+Can I get a small coffee and a medium latte to stay?
+[(a small coffee), (a medium latte)]
+
+I'll have a large coffee and a small smoothie to go.
+[(a large coffee), (a small smoothie)]
+
+Could I get a small coffee, a large latte, and a small smoothie to stay?
+[(a small coffee), (a large latte), (a small smoothie)]
+
+May I have a small coffee and a medium smoothie to go?
+[(a small coffee), (a medium smoothie)]
+
+I'd like a medium coffee and two small lattes to stay.
+[(a medium coffee), (two small lattes)]
+
+Can I get a small coffee, a large latte, and a medium smoothie to go?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+I'll have a small coffee and a medium latte to stay.
+[(a small coffee), (a medium latte)]
+
+Could I get a large coffee and a small smoothie to go?
+[(a large coffee), (a small smoothie)]
+
+May I have a small coffee, a large latte, and a medium smoothie to stay?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+I'd like a small coffee and a medium smoothie to go.
+[(a small coffee), (a medium smoothie)]
+
+Can I get a large coffee and two small lattes to stay?
+[(a large coffee), (two small lattes)]
+
+I'll have a small coffee, a medium latte, and a small smoothie to go.
+[(a small coffee), (a medium latte), (a small smoothie)]
+
+Could I get a small coffee and a large latte to stay?
+[(a small coffee), (a large latte)]
+
+May I have a medium coffee and a small smoothie to go?
+[(a medium coffee), (a small smoothie)]
+
+I'd like a small coffee, a large latte, and a medium smoothie.
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+Can I get a small latte to go?
+[(a small latte)]
+
+I'll have a medium latte, please.
+[(a medium latte)]
+
+Could I get a large latte to stay?
+[(a large latte)]
+
+May I have two small lattes, please?
+[(two small lattes)]
+
+I'd like a medium latte and a small smoothie to go.
+[(a medium latte), (a small smoothie)]
+
+Can I get a large latte and a small coffee to stay?
+[(a large latte), (a small coffee)]
+
+I'll have a small latte and a medium smoothie, please.
+[(a small latte), (a medium smoothie)]
+
+Could I get two large lattes and a small coffee to go?
+[(two large lattes), (a small coffee)]
+
+May I have a small latte and a medium coffee to stay?
+[(a small latte), (a medium coffee)]
+
+I'd like a large latte, a small coffee, and a medium smoothie.
+[(a large latte), (a small coffee), (a medium smoothie)]
+
+Can I get a small latte and two medium coffees, please?
+[(a small latte), (two medium coffees)]
+
+I'll have a large latte and a small smoothie to go.
+[(a large latte), (a small smoothie)]
+
+Could I get a small latte, a medium coffee, and a large smoothie to stay?
+[(a small latte), (a medium coffee), (a large smoothie)]
+
+May I have a small latte and a medium smoothie to go?
+[(a small latte), (a medium smoothie)]
+
+I'd like a large latte and two small coffees to stay.
+[(a large latte), (two small coffees)]
+
+Can I get a small latte, a medium coffee, and a large smoothie to go?
+[(a small latte), (a medium coffee), (a large smoothie)]
+
+I'll have a small latte and a medium smoothie to stay.
+[(a small latte), (a medium smoothie)]
+
+Could I get a large latte and a small coffee to go?
+[(a large latte), (a small coffee)]
+
+May I have a small latte, a medium smoothie, and two small coffees to stay?
+[(a small latte), (a medium smoothie), (two small coffees)]
+
+I'd like a large latte and a small coffee to go.
+[(a large latte), (a small coffee)]
+
+Can I get a small latte and a medium smoothie to stay?
+[(a small latte), (a medium smoothie)]
+
+I'll have a large latte, a small coffee, and a medium smoothie to go.
+[(a large latte), (a small coffee), (a medium smoothie)]
+
+Could I get two small lattes and a medium coffee, please?
+[(two small lattes), (a medium coffee)]
+
+May I have a small latte and a large smoothie to stay?
+[(a small latte), (a large smoothie)]
+
+I'd like a medium latte and two small coffees to go.
+[(a medium latte), (two small coffees)]
+
+Can I get a small latte, a large coffee, and a medium smoothie to go?
+[(a small latte), (a large coffee), (a medium smoothie)]
+
+I'll have a small latte and a medium coffee to stay.
+[(a small latte), (a medium coffee)]
+
+Could I get a large latte and a small smoothie to go?
+[(a large latte), (a small smoothie)]
+
+May I have a small latte, a large smoothie, and a medium coffee to stay?
+[(a small latte), (a large smoothie), (a medium coffee)]
+
+I'd like a small latte and a medium smoothie to go.
+[(a small latte), (a medium smoothie)]
+
+Can I get a large latte and two small coffees to stay?
+[(a large latte), (two small coffees)]
+
+I'll have a small latte, a medium smoothie, and a small coffee to go.
+[(a small latte), (a medium smoothie), (a small coffee)]
+
+Could I get a small latte and a large coffee to stay?
+[(a small latte), (a large coffee)]
+
+May I have a medium latte and a small smoothie to go?
+[(a medium latte), (a small smoothie)]
+
+I'd like a small latte, a large smoothie, and a medium coffee.
+[(a small latte), (a large smoothie), (a medium coffee)]
+
+Can I get a small latte and a medium coffee to stay?
+[(a small latte), (a medium coffee)]
+
+I'll have a large latte and a small smoothie to go.
+[(a large latte), (a small smoothie)]
+
+Could I get a small latte, a large smoothie, and a small coffee to stay?
+[(a small latte), (a large smoothie), (a small coffee)]
+
+May I have a small latte and a medium smoothie to go?
+[(a small latte), (a medium smoothie)]
+
+I'd like a medium latte and two small coffees to stay.
+[(a medium latte), (two small coffees)]
+
+Can I get a small coffee and a medium latte to go?
+[(a small coffee), (a medium latte)]
+
+I'll have a large coffee and a small latte to stay.
+[(a large coffee), (a small latte)]
+
+Can I get a small coffee and a medium latte to go?
+[(a small coffee), (a medium latte)]
+
+I'll have a large coffee and a small latte to stay.
+[(a large coffee), (a small latte)]
+
+Could I get a small coffee, a medium latte, and a small smoothie to go?
+[(a small coffee), (a medium latte), (a small smoothie)]
+
+May I have a small coffee and a large latte to stay?
+[(a small coffee), (a large latte)]
+
+I'd like a medium coffee and a small latte to go.
+[(a medium coffee), (a small latte)]
+
+Can I get a large coffee, a small latte, and a medium smoothie to stay?
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+I'll have a small coffee and a medium latte to go.
+[(a small coffee), (a medium latte)]
+
+Could I get a small coffee, a large latte, and a medium smoothie to stay?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+May I have a small coffee and a medium latte to go?
+[(a small coffee), (a medium latte)]
+
+I'd like a large coffee, a small latte, and a medium smoothie.
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+Can I get a small coffee, a medium latte, and a small smoothie to go?
+[(a small coffee), (a medium latte), (a small smoothie)]
+
+I'll have a large coffee and a small latte to stay.
+[(a large coffee), (a small latte)]
+
+Could I get a small coffee, a medium latte, and a large smoothie to go?
+[(a small coffee), (a medium latte), (a large smoothie)]
+
+May I have a small coffee and a large latte to stay?
+[(a small coffee), (a large latte)]
+
+I'd like a medium coffee and a small latte to go.
+[(a medium coffee), (a small latte)]
+
+Can I get a large coffee, a small latte, and a medium smoothie to stay?
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+I'll have a small coffee and a medium latte to go.
+[(a small coffee), (a medium latte)]
+
+Could I get a small coffee, a large latte, and a medium smoothie to stay?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+May I have a small coffee and a medium latte to go?
+[(a small coffee), (a medium latte)]
+
+I'd like a large coffee, a small latte, and a medium smoothie.
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+Can I get a small coffee, a medium latte, and a small smoothie to go?
+[(a small coffee), (a medium latte), (a small smoothie)]
+
+I'll have a large coffee and a small latte to stay.
+[(a large coffee), (a small latte)]
+
+Could I get a small coffee, a large latte, and a medium smoothie to go?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+May I have a small coffee and a large latte to stay?
+[(a small coffee), (a large latte)]
+
+I'd like a medium coffee and a small latte to go.
+[(a medium coffee), (a small latte)]
+
+Can I get a large coffee, a small latte, and a medium smoothie to stay?
+[(a large coffee), (a small latte), (a medium smoothie)]
+
+I'll have a small coffee and a medium latte to go.
+[(a small coffee), (a medium latte)]
+
+Could I get a small coffee, a large latte, and a medium smoothie to stay?
+[(a small coffee), (a large latte), (a medium smoothie)]
+
+May I have a small coffee and a medium latte to go?
+[(a small coffee), (a medium latte)]
+
+I'd like a large coffee, a small latte, and a medium smoothie.
+[(a large coffee), (a small latte), (a medium smoothie)]
